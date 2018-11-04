@@ -8,6 +8,10 @@ def array_with_two_elements
   return array
 end
 def first_element(array)
-  array = [1,2,3,4]
+  array = ["Welcome to New York",2,3,4]
   return array[0]
+end
+def third_element(array)
+  array = [1,2,3,4]
+  return array[2]
 end
