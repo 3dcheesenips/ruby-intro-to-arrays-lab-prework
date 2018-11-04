@@ -19,7 +19,7 @@ def last_element(array)
   array = [1,2,3,"Out of The Woods"]
   return array[-1]
 end
-def first_element_with_array_methods
+def first_element_with_array_methods(array)
   array = [1,2,3,4]
   return array.first
 end
